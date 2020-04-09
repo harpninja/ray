@@ -1,5 +1,5 @@
 # Ray Tracer
-A Python version of [Ray Tracing in One Weekend](https://github.com/RayTracing/raytracing.github.io)by Peter Shirley.
+A Python version of [Ray Tracing in One Weekend](https://github.com/RayTracing/raytracing.github.io) by Peter Shirley.
 This code generates fewer spheres than the original.  This is noted in main.py.
 A few points:
 * I have followed the original C++ variable names and other things as much as possible.
@@ -9,3 +9,5 @@ A few points:
 
 ### Run
 python main.py
+
+![Final Ray Traced Image](https://github.com/harpninja/ray/blob/master/out.jpg)
